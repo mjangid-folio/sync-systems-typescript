@@ -1,0 +1,2 @@
+PG_CONNECTION_STRING=postgres://root:passwrd@localhost/zscaler
+PORT=4001
